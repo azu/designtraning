@@ -1,44 +1,66 @@
-# designtraning
+# デザインの教室
 
+次の書籍の写経リポジトリ。
 
+- [デザインの教室｜株式会社エムディエヌコーポレーション](https://books.mdn.co.jp/books/3207303028/)
 
-## Install
+## Lesson 2-1: 線を使ったデザイン
 
-Install with [npm](https://www.npmjs.com/):
+### Lesson 2-1 練習1
 
-    npm install designtraning
+線でページを分割する。
 
-## Usage
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning-Lession-1?node-id=0%3A1>
 
-- [ ] Write usage instructions
+### Lesson 2-2 練習2
 
-## Changelog
+文字と線の位置を検証する。
 
-See [Releases page](https://github.com/azu/designtraning/releases).
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=2%3A70>
 
-## Running tests
+## Lesson 2-2: 面を使ったデザイン
 
-Install devDependencies and Run `npm test`:
+### Lesson 2-2 練習1
 
-    npm test
+面を使ったデザイン。ハカギ的なデザイン
+写真展のタイトル、写真家の名前、場所と期間の表示をする
 
-## Contributing
+四角をおいて、そこからタイトル、→に対する直線、人名に縦に対する直線にそろえていく。
+右上の四角があるのが重要なライン
 
-Pull requests and stars are always welcome.
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=2%3A173>
 
-For bugs and feature requests, [please create an issue](https://github.com/azu/designtraning/issues).
+### Lesson 2-2 練習2
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+グリッドを使ったレイアウト。
+背景の補助線としてグリッドを使って色分けてしていく。
 
-## Author
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=2%3A189>
 
-- [github/azu](https://github.com/azu)
-- [twitter/azu_re](https://twitter.com/azu_re)
+## Lesson 2-3: 円を使ったデザイン
 
-## License
+Figmaだとパスファインダーの代わりにBoolean Operationを使うと和とか表現できる
 
-MIT © azu
+- https://www.youtube.com/watch?v=8ZaX6qEcUCU
+
+円はAlt + ドラッグで中心を軸にして拡大縮小できる
+
+### Lesson 2-3 練習1
+
+円を並べるデザイン
+
+- https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=38%3A0
+
+### Lesson 2-3 練習2
+
+同心円を並べたデザイン。
+
+Figmaだと同心円はツールがないので手作業でコピペ
+
+- [Create an Eight Logo in Figma with Concentric Circles - YouTube](https://www.youtube.com/watch?v=uG0q1SkjvDs)
+- https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=38%3A113
+
+円に沿わせるデザインなどは視覚効果は強いが、バランスが悪くなることがある。
+Adobeっぽいデザイン
+
+## Lessson 2-4: 斜めのデザイン
