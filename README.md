@@ -75,3 +75,54 @@ Figmaでは縦書きテキストができない
 長方形を何が目に配置してページを斜めに分割するデザイン。
 
 - <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=40%3A159>
+
+## Lesson 2-4 練習1 ボールド
+
+BOLDフォントを使ったデザイン
+同じfont familyを使うことで統一感がでる。
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=77%3A0>
+
+## Lesson 2-4 練習2 ボールド
+
+ライトなフォントで目立たせるデザイン。
+
+シンプルなイメージだからサンセリフとか目的に合わせた特徴のフォントに絞り込んでから具体的なフォントに決めていく。
+好みと特徴をちゃんと使い分ける
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=77%3A29>
+
+## Lessson 3-1 練習 目次のデザイン
+
+赤をアクセントに使ったデザイン。
+ページ背景に使うパターンと、控えめに使ったパターン。
+背景的に使う方が好みだな。エンコードには悪そう
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=98%3A0>
+
+## Lesson 3-2 練習1 既存のデザインに色を付ける
+
+既存のデザインにワンポイントのアクセントカラーをつけてみる。
+背景全体がカラーだと重たいので、面積を減らす。
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=98%3A332>
+
+## Lesson 3-2 練習2 名刺のデザインのために色を選択する
+
+色を選ぶ時に、彩度、明度を変える、色相を変えてみるなどのポイントを絞って変更していく。
+デザインは隅から配置していくとしやすい
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=98%3A409>
+
+## Lesson 3_04 カラーパレットの作成
+
+カラーパレットの作り方について。
+
+基準色を決める、色相をずらした色をならべる、黄色は要調整、パターンによって特徴的な色をパレットに入れる。
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=143%3A0>
+
+少ない色でカラフルなデザイン。
+白のスペースを使ってそこが一番目立つようにする
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=143%3A312>
