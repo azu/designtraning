@@ -128,6 +128,8 @@ BOLDフォントを使ったデザイン
 - <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=143%3A312>
 
 
+---
+
 <script>
 <!--
 Array.from(document.querySelectorAll("a[href^='https://www.figma.com/file/']")).map(aTag => {
