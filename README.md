@@ -128,6 +128,65 @@ BOLDフォントを使ったデザイン
 - <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=143%3A312>
 
 
+## Lesson 3_06 動きやリズムを感じさせるデザイン
+
+### Lesson 3_06 練習1
+
+
+動きを感じさせるデザインの前に静的なデザイン。
+左右対称など安定感を感じさせることが多い。
+
+あくまで静止画なので、動きを予測させるデザイン。
+偏ったり、はみ出したり、繰り返しによるリズムを与えたりする。
+
+リズムは繰り返しだけではなくアクセントによって発生する
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=324%3A2>
+
+### Lesson 3_06 練習2 色を使ってリズムを感じさせる
+
+色でリズムを作る
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=324%3A70>
+
+規則性から適度にずらすことでリズムが生まれる。
+ただ適度には公式っぽいのがないので、バランス感覚が求められる。
+
+グラデーションはリズムには使わない。
+
+課題
+
+縦揃いのところの右上にブロックが跳ねるイメージでリズムを出す。
+左上から右下への流れがあるので、そこではねる感じ。
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=326%3A39>
+
+## Lesson 3_07 余白を生かしたデザイン
+
+意図的な余白を扱う。
+
+箸からレイアウトしていくことで、レイアウトにも意図が残りやすい余白が作れる。
+
+箸から考えて余白を作る
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=326%3A66>
+
+## Lesson 4_01 文字組みと見出し
+
+文字とレイアウト
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=384%3A2>
+
+## Lesson 4_04 グリッドの設計
+
+グリッドと文字の合わせ
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=384%3A38>
+
+グリッドと画像
+
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesignTraning?node-id=384%3A48>
+
 ---
 
 <script><!--
