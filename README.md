@@ -49,7 +49,7 @@ Figmaだとパスファインダーの代わりにBoolean Operationを使うと�
 
 円を並べるデザイン
 
-- https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=38%3A0
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=38%3A0>
 
 ### Lesson 2-3 練習2
 
@@ -58,7 +58,7 @@ Figmaだとパスファインダーの代わりにBoolean Operationを使うと�
 Figmaだと同心円はツールがないので手作業でコピペ
 
 - [Create an Eight Logo in Figma with Concentric Circles - YouTube](https://www.youtube.com/watch?v=uG0q1SkjvDs)
-- https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=38%3A113
+- <https://www.figma.com/file/baa9B8NeN7pxR0RRNZOEwZ/DesisnTraning?node-id=38%3A113>
 
 円に沿わせるデザインなどは視覚効果は強いが、バランスが悪くなることがある。
 Adobeっぽいデザイン
