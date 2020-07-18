@@ -41,7 +41,7 @@
 
 Figmaだとパスファインダーの代わりにBoolean Operationを使うと和とか表現できる
 
-- https://www.youtube.com/watch?v=8ZaX6qEcUCU
+- <https://www.youtube.com/watch?v=8ZaX6qEcUCU>
 
 円はAlt + ドラッグで中心を軸にして拡大縮小できる
 
